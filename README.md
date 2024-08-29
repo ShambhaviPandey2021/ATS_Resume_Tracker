@@ -1,7 +1,5 @@
 ﻿# ATS_Resume_Tracker
 
-```markdown
-# ATS Resume Expert
 
 This repository contains a Streamlit application designed to evaluate resumes against job descriptions using Google's Generative AI (Gemini). The app allows users to upload a resume in PDF format, input a job description, and receive an analysis of how well the resume aligns with the job role.
 
